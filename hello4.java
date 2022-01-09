@@ -6,4 +6,8 @@ and
 
 this is from remote
 
+
 this is from new local
+
+this is new remote file
+
