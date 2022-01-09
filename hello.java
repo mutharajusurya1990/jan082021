@@ -6,6 +6,7 @@ System.out.println("hello");
 }
 }
 created branch
-
 created another branch with feature
 learning git pull
+here is the reset option
+
