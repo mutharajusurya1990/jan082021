@@ -6,3 +6,4 @@ and
 
 this is from remote
 
+this is new remote file
